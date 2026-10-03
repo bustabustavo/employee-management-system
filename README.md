@@ -37,8 +37,7 @@ The application can also calculate the total weekly payroll based on employee ho
 
 ## Example
 
-text
-EMPLOYEE MANAGEMENT SYSTEM
+##  MANAGEMENT SYSTEM
 
 1. Add employee
 2. Remove employee
@@ -48,16 +47,21 @@ EMPLOYEE MANAGEMENT SYSTEM
 6. Approve manager overtime
 7. Exit
 
-Example employee:
+## Example employee:
 
 Name: John Smith
+
 Employee ID: 1001
+
 Hourly Rate: £25
+
 Hours Worked: 40
+
 Total weekly payroll: £1000.00
 
 
-What This Project Demonstrates:
+
+## What This Project Demonstrates:
 
 This project demonstrates practical experience with:
 - Python classes and objects
